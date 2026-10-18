@@ -5,7 +5,7 @@ import pandas as pd
 from fastapi import FastAPI, HTTPException
 
 CSV = Path(__file__).resolve().parents[2] / "data" / "heat.csv"
-app = FastAPI(title="AI Valuation Heat Index")
+app = FastAPI(title="Pyrometer")
 
 
 def _load() -> pd.DataFrame:
