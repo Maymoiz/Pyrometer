@@ -1,4 +1,5 @@
-# AI Valuation Heat Index
+   # Pyrometer
+   > Measuring how hot the AI market is running. Not predicting where it goes.
 
 A transparent gauge of how stretched the AI-sector market looks relative to its own history.
 **It does not predict prices.**
